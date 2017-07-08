@@ -1,4 +1,4 @@
-Template: a full living systematic-review of interventions
+Polymyalgia rheumatica treated with glucocorticoid-sparing therapy
 =================================
 **[Click here](
 http://openmetaanalysis.github.io/Template-a-full-living-systematic-review-of-interventions
