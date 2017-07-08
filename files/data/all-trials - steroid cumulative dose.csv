@@ -1,0 +1,4 @@
+Study,             Year,PMID,experimental_mean(SD),experimental_total,control_mean(SD),control_total,Cofactor
+van der Veen*,1996,8733437,2.32134(0.633),16,2.58438(0.76775),10,NA
+Ferraccioli,1996,8730115,1.84(),12,3.2(),12,NA
+Caporali,2004,15466766,0.19(0.40),32,0.62(0.72),39,NA
