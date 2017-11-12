@@ -1,7 +1,7 @@
 Polymyalgia rheumatica treated with glucocorticoid-sparing therapy
 =================================
 **[Click here](
-http://openmetaanalysis.github.io/Template-a-full-living-systematic-review-of-interventions
+https://openmetaanalysis.github.io/Polymyalgia-rheumatica-treated-with-glucocorticoid-sparing-therapy/
 ) to see the meta-analysis.**
 
 **If you want to be notified of new trials being posted at ClinicalTrials, PubMed, or here:**
