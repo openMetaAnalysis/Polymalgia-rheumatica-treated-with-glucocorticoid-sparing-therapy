@@ -1,4 +1,5 @@
-Study,             Year,PMID,experimental_events,experimental_total,control_events,control_total,Dropout rate,Methotrexate weekly dose
-van der Veen*,1996,8733437,10,16,6,10,High drop out rate,7.5
-Ferraccioli,1996,8730115,6,12,12,12,Low drop out rate,10
-Caporali,2004,15466766,4,32,14,39,Low drop out rate,10
+Study,             Year,PMID,experimental_events,experimental_total,control_events,control_total,Group,Follow-up rate,Methotrexate weekly dose
+van der Veen*,1996,8733437,10,16,6,10,7.5 mg/wk; High drop out rate,53,7.5
+Ferraccioli,1996,8730115,6,12,12,12,10 mg/wk; Low drop out rate,100,10
+Caporali,2004,15466766,4,32,14,39,10 mg/wk; Low drop out rate,86,10
+Nazarina,2013,NA,16,29,27,29,10 mg/wk; Low drop out rate,81,10
